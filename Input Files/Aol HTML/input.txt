@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:f="http://search.aol.com/rdf/finds">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="AOL Search" href="/assets/en/GB/aolcom/0850f1ukr01/opensearch.xml"/>
+<!--view=PORTAL-->
+<title>AOL Search</title>
+
+<style type="text/css">
+html,body{font-size:100%;height:100%;font-family:arial,verdana,sans-serif}html,body,form,h1,h2,h3,h4,h5,h6,p,ul{margin:0;padding:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%}img{border:0;display:block}ul{list-style-type:none}a{color:#0000cc}a:hover{text-decoration:underline}a:visited{color:#551a8b}#h,#nav,#c,#l,#w,#r,#f,#nav_cont,.search_tabs{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}#h:after,#c:after,#nav:after,#nav_cont:after,#f:after{content:"";display:table;clear:both}#h,#nav,#nav_cont,#c,#f{clear:both}#p{font-size:0.813em;min-width:980px}.landing #p{min-width:980px}#IE6 #h,#IE7 #h{height:70px}#h{background:#ffffff;background:-moz-linear-gradient(bottom,#ffffff,#ffffff);background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#ffffff));background:-webkit-linear-gradient(bottom,#ffffff,#ffffff);background:-ms-linear-gradient(bottom,#ffffff,#ffffff);background:-o-linear-gradient(bottom,#ffffff,#ffffff);border-bottom:1px solid #EBEBEB;filter:progid:DXImageTransform.Microsoft.Gradient(endColorStr="#ffffff",startColorStr="#ffffff");height:70px}#IE8 #h{filter:none;background:url(http://o.aolcdn.com/os/aol-search/globalHeader/gh-bg-clear.png) repeat-x 0 0}#nav_cont{height:41px;line-height:35px;border-bottom:1px solid #EBEBEB}.search_tabs{width:723px;padding-left:128px;padding-right:0px;margin-top:0px;margin-bottom:0px}.landing .search_tabs{width:980px}#f{width:100%;padding-left:15px;padding-right:0px}.landing #f{margin-top:496px}.results #c{padding-left:128px;padding-right:0px}#c{width:980px;padding-left:21px;padding-right:0px;margin-top:0px;margin-bottom:0px}#l{float:left;width:0px;padding-left:0px;padding-right:0px}.results #w{padding-left:8px;padding-right:15px ;width:573px }#w{float:left;width:100%;padding-left:0;padding-right:0}#r{float:right;width:279px;padding-left:6px;border-left:;margin-top:11px}.MSR,.IRR,.VRR,.NRR{margin-left:128px;padding-left:8px;height:38px;line-height:38px}.cntr{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;display:table;height:70px;padding-left:15px;padding-right:0px;width:980px}.landing .cntr{width:980px}.cntr-rw{display:table-row}.cntr-rw>div{display:table-cell;vertical-align:middle}#f .cntr{width:635px;padding-left:0;padding-right:0;height:auto}.cntr #ACC{width:100%;padding-right:0}#AOL .cntr{padding-right:0}#IE7 #h{height:70px;z-index:1}#IE7 #p{font-size:.81em;position:relative}#IE7 .search_tabs{width:592px;padding-left:128px;padding-right:0;margin:0}.landing #IE7 .search_tabs{padding-left:15px;width:965px}.landing #AOL #IE7 .search_tabs{padding-left:21px;width:779px}#AOL #IE7 .search_tabs{padding-left:21px;width:703px}#IE7 #f{width:965px;padding-left:15px;padding-right:0}#IE7 .MSR,#IE7 .VRR,#IE7 .NRR{padding-left:8px;padding-right:0}#AOL #IE7 .MSR,#AOL #IE7 .VRR,#AOL #IE7 .NRR{margin-left:21px}.results #IE7 #c{padding-left:128px;padding-right:0;width:852px;margin:0}#AOL #IE7 #c{width:959px;padding-left:21px;padding-right:0}#IE7 #c{width:959px;padding-left:21px;padding-right:0;margin:0}#IE7 #l{width:0}.results #IE7 #w{padding-left:8px;padding-right:8px;width:550px;margin:0}#IE7 #w{width:100%;padding:0}#IE7 #r{width:264px;padding-left:6px}#IE7 #h .cntr{padding-left:15px;padding-right:0;width:965px}.landing #AOL #IE7 #h .cntr{padding-left:21px;width:959px}#AOL #IE7 #h .cntr{padding-left:21px;padding-right:0;width:959px}#IE7 .cntr-rw>div{display:block;float:left}.clear{clear:both;height:0;overflow:hidden}.lnkdis{color:#666666}.dn{display:none}.b{font-weight:bold}.lr-sep{border-top:1px solid #e5e5e5;margin:10px 0 0;width:149px;height:0;overflow:hidden}.lhrgt,.lhrlt{display:block;cursor:pointer;text-decoration:none;outline:0}.lhrgt:hover,.lhrlt:hover,.lhrgt span:hover,.lhrlt span:hover{text-decoration:underline}.lhrgt .sprite{background:url(/assets/en/GB/aolcom/0850f1ukr01/img/0850f1ukr01_sresults.png) no-repeat -105px -34px;margin:4px 0 0 5px;height:7px;width:7px}#IE .lhrgt .sprite{margin-top:5px}.lhrlt .sprite,.topBackLink .sprite{background:url(/assets/en/GB/aolcom/0850f1ukr01/img/0850f1ukr01_sresults.png) no-repeat -104px -26px;margin:5px 5px 0 0;height:7px;width:7px}.lhrgt span,.lhrlt span{float:left}.acc{position:absolute;left:-1000em}.hac{display:inline;margin:0;font-size:1em;font-weight:normal}.obscure{position:absolute!important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px)}.sprite{text-indent:-9999px;text-align:left;display:block;overflow:hidden}.LHRSAFE{float:right;font-size:1.0769em;position:relative}.LHRSAFE a{color:#666666;display:block;padding-right:11px;position:relative;text-decoration:none}.LHRSAFE a:hover{color:#000000;text-decoration:none}.LHRSAFE a.sspmd_ext_links:hover{color:#999;text-decoration:underline}.LHRSAFE .tab{margin-right:8px}#p .LHRSAFE a:active{color:#f92589;text-decoration:none}#sspmd_dialog{background:white;border:1px solid #d6d6d6;box-shadow:0 2px 4px #d6d6d6;font-size:13px;left:8px;min-width:215px;position:absolute;top:33px;z-index:1}#sspmd_dialog span{background:url(/assets/en/GB/aolcom/0850f1ukr01/img/0850f1ukr01_sresults.png) no-repeat -51px -182px;display:inline-block;height:16px;width:14px}#sspmd_dialog .sspmd_selected{font-weight:bold;padding-left:14px}#sspmd_dialog p:hover,#sspmd_dialog a:hover{background:#f2f2f2}.sspmd_padding_left{line-height:30px;padding-left:14px}.sspmd_more{background:none repeat scroll 0 0 #f2f2f2}#IE .sspmd_more{min-width:215px}.sspmd_more a,#sspmd_dialog a.sspmd_ext_links:active{color:#999}.landing .LHRSAFE{float:left}.landing .tab{margin-bottom:0;margin-left:0;margin-right:8px;margin-top:3px;padding:0 13px 0 0}.landing #sspmd_dialog{left:0}.darrsafe{background-image:url(/assets/en/GB/aolcom/0850f1ukr01/img/0850f1ukr01_sresults.png);background-position:-81px -137px;background-repeat:no-repeat;height:4px;margin:-2px 0 0;position:absolute;right:0;top:50%;width:7px}a:hover .darrsafe{background-position:-101px -137px}a:active .darrsafe{background-position:-91px -137px}.landing .search_tabs{padding-left:15px}#IE #sspmd_dialog span{background-position:-51px -185px}#IE7 .LHRSAFE .darrsafe{top:22%}#IE7 .LHRSAFE{z-index:10000}body #promotion{display:none}#usrConsent{min-width:980px}#promotion,#ooCont{display:none}.CSB .csbs{background-color:#fff;border:2px solid #797979;border-right:0;color:#3c3c3c;font-size:16px;font-weight:normal;padding:5px 7px 4px 5px;width:100%;position:relative;outline:0;height:34px}.CSB .csbs.dark{border:0;box-shadow:2px 2px 8px rgba(0,0,0,0.3) inset;padding:7px 7px 7px 8px}.CSB .csbb{background-color:#f80e7e;background-image:-moz-linear-gradient(center bottom,#cc0c67,#f80e7e);background-image:-webkit-gradient(linear,left top,left bottom,from(#cc0c67),to(#f80e7e));background-image:-webkit-linear-gradient(bottom,#cc0c67,#f80e7e);background-image:-ms-linear-gradient(bottom,#cc0c67,#f80e7e);background-image:-o-linear-gradient(bottom,#cc0c67,#f80e7e);filter:progid:DXImageTransform.Microsoft.Gradient(endColorStr="#cc0c67",startColorStr="#f80e7e");cursor:pointer;display:block;min-width:82px;height:34px;line-height:36px;text-align:center;font-size:14px;font-weight:normal;text-transform:uppercase;text-shadow:1px 1px 1px rgba(0,0,0,0.5);text-decoration:none;color:#fff;overflow:hidden;white-space:nowrap}.CSB td{vertical-align:top}.CSB .csbb:hover{background-color:#cc0c67;background-image:-moz-linear-gradient(center bottom,#f80e7e,#cc0c67);background-image:-webkit-gradient(linear,left top,left bottom,from(#f80e7e),to(#cc0c67));background-image:-webkit-linear-gradient(bottom,#f80e7e,#cc0c67);background-image:-ms-linear-gradient(bottom,#f80e7e,#cc0c67);background-image:-o-linear-gradient(bottom,#f80e7e,#cc0c67);filter:progid:DXImageTransform.Microsoft.Gradient(endColorStr="#f80e7e",startColorStr="#cc0c67")}.CSB .YOUTUBE{background:transparent url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png) -138px 6px no-repeat;height:35px;margin-left:4px;text-indent:-9999px;width:55px}.CSB .YOUTUBE.clear{clear:none;overflow:visible}#ACC{position:absolute;display:none;background:white;border:1px solid #484848;padding:5px 0 4px 0;z-index:3;font-size:16px;top:32px;left:0;width:100%}#ACC .acs{color:#3c3c3c;display:block;text-decoration:none;padding:3px 10px 3px 6px;width:auto}#ACC .acs.sel{background:#dfdfdf;color:#3c3c3c}#ACC .CSERD{color:#00c;display:inline-block;padding:1px 0;margin-left:4px}#ACC .sel .CSERD{color:#00C}#AOL .sbox{max-width:573px}#AOL #IE7 .sbox,.sbox{max-width:579px}.sbox{display:table;width:100%}#h .sbox{padding-top:1px}.frm{display:table-cell}.prvlg{display:table-cell;vertical-align:middle;width:55px}.CSB *{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}.CSB .csbform{position:relative}.CSB .csbform.sbglow{box-shadow:;outline:medium none}.CSB .csbform.clear{clear:none;height:auto;overflow:visible}.CSB .csbform>table{width:100%}.CSB .csbform>table .fc{width:100%}.CSB .GLOG{background:transparent url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png) no-repeat -91px 5px;height:35px;margin-left:8px;text-indent:-9999px;width:47px}.CSB .GLOG.clear{clear:none;overflow:visible}.CSB .GLOG.bgnone{background:0}#IE7 .CSB .csbform{z-index:3}#IE7 .CSB .csbform>table .fc{width:424px}#IE7 .CSB .csbs{width:100%;height:17px;padding:7px 7px 6px 5px;border:2px solid #797979;border-right:0}#IE7 .CSB .csbb{min-width:62px;padding-left:25px;padding-right:10px;display:inline-block;margin-top:1px}#IE7 .CSB .csbs.dark{height:17px;border:0;padding:9px 8px 8px 7px}#IE7 .CSB #ACC{width:519px}.landing #AOL #IE7 .CSB #ACC{width:422px}#IE7 .sbox>div{display:block;float:left}#IE7 .CSB .csbform>table,#IE7 .sbox{display:block;width:auto}#IE7 .CSB .csbform>table{width:521px;table-layout:fixed}#IE7 .CSB{padding-top:17px}#IE7 .CSB .GLOG{margin:2px 0 0 106px}#IE7 .CSB .YOUTUBE{margin-left:104px}#IE6 .csbform{height:100%}#IE6 .csbs{width:380px;height:20px;padding:7px 7px 3px 5px;border:2px solid #797979}#IE6 .frm{width:462px;float:left}#IE6 .CSB{float:left;margin-top:14px}#IE6 .CSB #ACC{width:479px;left:0;top:35px}#IE7 .frm{width:424px}#f .copy{color:#9c9c9c;padding-top:8px}.HLGH{font-size:.923em;width:27.857%}#CHROME .HLGH{width:28.3783%}.HLGH>ul{float:right;padding-top:2px}#IE7 .HLGH>ul{overflow:hidden}.HLGH li{float:left;position:relative;z-index:1}.HLGH a{text-decoration:none;color:#FFF;display:block;width:28px;height:20px}.HLGH a:hover{text-decoration:underline}.HLGH .mail{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);margin-left:11px;background-position:-67px -117px}.HLGH .mail:hover{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-99px -117px}.HLGH .favs{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);margin-left:1px;background-position:4px -144px}.HLGH .favs:hover{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-28px -144px}.HLGH .home{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-2px -116px}.HLGH .home:hover{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-34px -116px}.HLGH .video{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-67px -144px;margin-left:10px}.HLGH .video:hover{background-image:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png);background-position:-99px -144px}.HLGH .signlnk{width:100%;line-height:22px;color:#494949;margin-left:17px}#IE7 .HLGH .signlnk.sin{margin-right:-1px}.tooltip{padding-top:5px;position:absolute;text-align:center;width:121px;display:none;color:#fff;font-size:10px}#IE7 .tooltip{padding-bottom:3px}#IE7 .SHLGH{z-index:1}.tthome{left:-49px}.ttmail,.ttvideo{left:-40px}.ttfavs{left:-42px}.ttsignlnk{left:-57px;width:190px}.tooltip .tttitle{background-color:#494949;padding:3px 9px;border-radius:3px;box-shadow:0 2px 4px rgba(0,0,0,0.2);display:inline-block}.tooltip .arrow{background:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png) no-repeat scroll -131px -119px transparent;height:7px;left:56px;position:absolute;top:0;width:10px}.ttsignlnk .arrow{left:87px}#IE7 .cntr .HLGH{margin-top:25px;float:right;max-width:260px}#AOL #IE7 .HLGH{width:20%}#IE6 .HLGH{float:right;margin-top:25px}#IE6 .HLGH a.signlnk:visited{color:#494949}#IE6 .HLGH .signlnk{width:50px}#f .flinks{clear:both;padding-top:36px;color:#c0c0c0;font-size:.923em}#f .flinks a{text-decoration:none;white-space:nowrap}#f .flinks a:hover{text-decoration:underline}#f .flinks a,#f .flinks a:visited{color:#515151}#f .flinks .dbl_sep{padding:0 10px}#f .flinks ul{line-height:18px}#IE7 #f .flinks{zoom:100%}.LOGO{width:113px}.LOGO .sprite{outline:0}.LOGO .sprite{background:url(http://o.aolcdn.com/os/aol-search/globalHeader/sprite_clear_2.png) no-repeat 0 0;height:35px;width:87px}#IE6 .LOGO,#IE7 .LOGO{margin-top:17px}#IE6 .LOGO{float:left}#f .flogo{width:111px}#f .flogo .sprite{background:url(/assets/en/GB/aolcom/0850f1ukr01/img/0850f1ukr01_sresults.png) no-repeat 0 -137px;width:79px;height:40px;margin-top:-6px}</style>
+<script type="text/javascript">var asseturi='/assets/en/GB/aolcom/0850f1ukr01/js/0850f1ukr01_';
+var ud=undefined;var sl={pg:"",req:"",oreq:"",q:"",prt:"",cat:"",servletName:"",modules:new Array(),desc:"",brand:"",channel:"",inClick:false,page:function(_1,_2,_3,_4,_5,_6,_7,_8){this.pg=_2;this.req=_1;this.q=_3;this.prt=_4;this.cat=_5;this.oreq=_6;this.brand=_7;this.channel=_8;},p:function(_9){this.pos=_9;},setDesc:function(_a){if(!this.inClick){this.desc=_a;this.inClick=true;}
+return true;},ser:function(_b){this.servletName=_b;},st:function(_c){this.slot=_c;},a:function(id,_e,_f,_10,pos,_12){this.modules[id]=new Array();this.modules[id].m=_e;this.modules[id].s=_f;this.modules[id].d=_10;this.modules[id].p=pos?pos:this.pos;this.modules[id].st=_12?_12:this.slot;},l:function(_13,mod,_15,_16,src,_18,_19,_1a,_1b,_1c,_1d,_1e){return this.t(null,_13,mod,_15,_16,src,_18,_19,_1a,_1b,_1c,_1d,_1e);},t:function(_1f,_20,mod,_22,_23,src,_25,_26,_27,_28,_29,_2a,_2b){return this.sl(null,null,_1f,_20,mod,_22,_23,src,_25,_26,_27,_28,_29,_2a,_2b);},sl:function(_2c,_2d,_2e,_2f,mod,_31,_32,src,_34,_35,_36,_37,_38,_39,_3a){var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("aol/7.0")>0&&ua.indexOf("macintosh")>0){return true;}
+if(this.inClick){this.inClick=false;_32=this.desc;}
+var url=_2f;var _3d=2;var _3e=false;if("object"==typeof(_2f)){url=_2f.href;_3e=true;if("_blank"==_2f.target){_3d=1;}else{_3d=0;}}
+var d="evlog?";d+="s_cq="+(_35?_35:this.q);if(_36){d+="&s_cq2="+_36;}
+d+="&s_req="+this.req;d+="&s_cp="+this.pg;d+="&s_sn="+this.servletName;d+="&k_brand="+this.brand;d+="&k_channel="+this.channel;if(_31&&_31>=0){d+="&s_cr="+_31;}
+if(mod){var _40=this.modules[mod];if(_40){d+="&s_cm="+_40.m;d+="&src="+(src?src:_40.s);d+="&s_cd="+(_32?_32:_40.d);d+="&position="+_40.p;d+="&slot="+_40.st;}}
+if(_34){d+="&s_pa="+_34;}
+if(_2d!=null){d+="&s_cidu="+_2d;}
+if(_2c!=null){d+="&s_glp="+_2c;}
+if(url==undefined){url="-";}
+d+="&s_cu="+encodeParam(url);d+="&s_ow="+_3d;d+="&s_prt="+this.prt;if(_2e!=null){if(this.oreq){d+="&t.oreq="+this.oreq;}
+var _41=rdfaMap[_2e];if(_41!=null){d+="&t.category="+this.cat;var _42=_2e.indexOf(".");if(_42!=-1){var _43=rdfaMap[_2e.substr(0,_42)];d+="&t.prefix="+encodeParam(_43["t.title"]);}
+for(key in _41){d+="&"+key+"="+encodeParam(_41[key]);}
+if(_3e){if(_2f.getAttribute("sublink")!=null){d+="&t.suburl="+encodeParam(url);d+="&t.subtitle="+encodeParam(_2f.innerHTML);}}}}
+if(_37){d+="&s_advS="+_37;}
+if(_38){d+="&s_advId="+_38;}
+if(_39){d+="&s_advE="+_39;}
+if(_3a){d+="&s_nourlob="+_3a;}
+d+="&r="+Math.random();this.sr(getReq(),d);return true;},sr:function(req,url){if(!req){return false;}
+try{var _46=null;if(url.length>1024){var uri=url.split("?",2);req.open("POST",uri[0],false);_46=uri[1];}else{req.open("GET",url,false);}
+req.setRequestHeader("Content-Type","application/x-www-form-urlencoded");req.send(_46);}
+catch(e){return false;}
+return true;}};function getReq(){var req=false;if(window.XMLHttpRequest){req=new XMLHttpRequest();if(req.overrideMimeType){req.overrideMimeType("text/xml");}}else{if(window.ActiveXObject){try{req=new ActiveXObject("Msxml2.XMLHTTP");}
+catch(e){try{req=new ActiveXObject("Microsoft.XMLHTTP");}
+catch(e){}}}}
+if(!req){return undefined;}
+return req;};var rdfaMap=new Object();function getRdfaNode(_49,lvl){var _4b="t.";var _4c=false;if(lvl>0){if(_49.getAttribute){if(_49.getAttribute("about")==null){var _4d=_49.getAttribute("property");if(_4d!=null){_4c=true;var con=_49.getAttribute("content");if(con!=null){rdfaObj[_4b+_4d.substr(2)]=con;}else{rdfaObj[_4b+_4d.substr(2)]=_49.innerHTML;}}
+var rel=_49.getAttribute("rel");if(rel!=null){_4c=true;rdfaObj[_4b+rel.substr(2)]=_49.href;}}else{return true;}}
+if(!_4c){var l=_49.childNodes;for(var x=0;x<l.length;x++){if(l[x].nodeType==1){_4c=getRdfaNode(l[x],lvl-1);}
+if(_4c){break;}}}}
+return _4c;};function getRdfa(_52){var _53=_52.getElementsByTagName("li");var _54=getEwAtt(_53,"about");for(var k=0;k<_54.length;k++){var id=_54[k].getAttribute("about");rdfaObj=new Object();rdfaMap[id]=rdfaObj;var _57=_54[k].childNodes;for(var x=0;x<_57.length;x++){getRdfaNode(_57.item(x),3);}}};function getEwAtt(_59,_5a){var _5b=new Array();if(_59==null||_5a==null||_5a==""){return;}else{var _5c=_59.length;var _5d=new RegExp("^r[0-9]+");for(i=0,j=0;i<_5c;i++){att=_59[i].getAttribute(_5a);if((att!=null||att!="")&&_5d.test(att)){_5b[j]=_59[i];j++;}}}
+return _5b;};function encodeParam(_5e){if(encodeURIComponent){return encodeURIComponent(_5e);}
+return escape(_5e);};</script>
+<!--cfg=1:dateUnknown:en_GB_aolcom:0:0:0:0:::vlf08:bUK6:346:<a target="_blank" href='/aol/mvtdebug?testId=FF_roll'>FF_roll</a>,<a target="_blank" href='/aol/mvtdebug?testId=sport_off'>sport_off</a>,<a target="_blank" href='/aol/mvtdebug?testId=CNTL_ClarRayAA2apr'>CNTL_ClarRayAA2apr</a>:0:0:0:0:0-->
+</head>
+
+<body lang="en" class="landing">
+<!--[if lt IE 8]><div id="IE"><![endif]-->
+<!--[if IE 9]><div id="IE9"><![endif]-->
+<!--[if IE 8]><div id="IE8"><![endif]-->
+<!--[if IE 7]><div id="IE7"><![endif]-->
+<!--[if IE 6]><div id="IE6"><script src="/assets/en/GB/aolcom/0850f1ukr01/js/0850f1ukr01_ie6mmx.js" type="text/javascript"></script><![endif]-->
+<div id="p">
+<h1 class="acc">AOL Search</h1>
+<a class="acc" href="#maincontent">Skip over navigation</a>
+<script type="text/javascript">sl.page('97c3b1071db8458cb3bf22c62cbe41eb','1','','20140512114146','null','','en_GB_aolcom','AOLSEARCH');sl.ser('webhome')</script>
+<div id="h"><!--s--><!--e--><!--s--><div class="cntr"><div class="cntr-rw">
+<!--e--><!--sLOGO--><script type="text/javascript">sl.a(1,'logo','feature.header.ptl','null','H3','-');</script><div class="LOGO">
+<a class="sprite" href="http://www.aol.co.uk/?icid=aol-uk-search-header-logo" title="aol.co.uk" onclick="sl.sl(null,null,null,this,1,1,'aolhome')" target='_blank'>
+    </a>
+</div><!--eLOGO--><!--sCS--><script type="text/javascript">sl.a(100,'csb','csb','CSB','H4','-');</script><div class="CSB">
+<div class="sbox">
+
+ <div class="frm">
+ 
+  <form name="CSBsearchForm1" target="" action="search" id="CSBsearchForm1" class="csbform clear">
+    <table cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+            <tr>
+                <td class="fc">
+                    <input name="s_it" value="searchbox.webhome" type="hidden" />
+                    <input name="v_t" value="na" type="hidden"/>
+                    <label for="csbquery1" class="obscure">Search the Web</label>
+                    <input type="text" name="q" autocomplete="off" value="" class="csbs clear" id="csbquery1" />
+                </td>
+                <td>
+                    <a id="csbbtn1" class="csbb" title="Search the Web" href="javascript:csbsubmit('CSBsearchForm1')">SEARCH</a>
+                    <noscript><style type="text/css">#IE7 .CSB .csbb,.CSB .csbb{display:none}#IE7 .CSB .csbbnjs,.CSB .csbbnjs{display:inline;color:#fff;border:0;min-width:92px;padding:0 0 0 14px;}</style><input class="csbb csbbnjs" type="submit" onclick="" value="SEARCH" /></noscript>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+  </form>
+  
+ </div> <!-- frm -->
+
+<div class="prvlg">
+<div class="GLOG clear">enhanced by Google</div>
+    </div> <!-- prvlg -->
+
+<script type="text/javascript">
+function attachEvt(el, m, f){
+    if (el.addEventListener) {
+        el.addEventListener(m, f, false);
+    }
+    else {
+        if (el.attachEvent) {
+            el.attachEvent("on" + m, f);
+        }
+    }
+}
+
+
+function detachEvent(el, m, f){
+    if (el.removeEventListener) {
+        el.removeEventListener(m, f, false);
+    }
+    else {
+        if (el.detachEvent) {
+            el.detachEvent("on" + m, f);
+        }
+    }
+}
+function addLoadEvent(func){
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+        window.onload = func;
+    } else {
+        window.onload = function(){
+        oldonload();
+        func();
+        }
+    }
+}
+var AOLSEARCH=AOLSEARCH||{};
+AOLSEARCH.globalHeader={
+ checkPromo:function(){
+    var p=document.getElementById("promotion"),cb=document.getElementById("ooCont");
+    if(cb!=null&&cb.style.display!="block"){cb.style.display="block";}
+    else if(cb==null&&p!=null&&p.style.display!="block"){p.style.display="block";this.moveHeader(true);} 
+ },
+ moveHeader:function(p){
+     var gh=document.getElementById("h");
+     if(gh!=null){
+         if(p) {
+            gh.style.height="100px";
+            if (promoname && promoname === 'ie9Promotion') {
+                var headerVariant = 'clear';
+                if (headerVariant) {
+                    var headerVariantWhiteList = 'dark,light,clear'.split(',');
+                    for (var i = 0; i < headerVariantWhiteList.length; i++) {
+                        if (headerVariantWhiteList[i] === headerVariant) {
+                            gh.style.backgroundPosition = "0 30px";
+                        }
+                    }
+                }
+            }
+        }
+         else gh.style.height="70px";
+     }
+ }
+};
+addLoadEvent(function() {
+    setTimeout("AOLSEARCH.globalHeader.checkPromo()",3000);
+});
+function autoinitcb(){
+    AOLSEARCH.autoSuggest.init('csbquery1','CSBsearchForm1','CSBsearchForm1','http://autocomplete-uk.search.aol.com/autocomplete/get?q=AC_QUERY&it=ws-landing&dict=en_uk_search&count=AC_COUNT&output=json&cb=AOLSEARCH.autoSuggest.display&echo=off&ext=sub','en_GB_search','search','false');
+}
+function loadJSON()
+{
+
+
+    var AOLSEARCH = AOLSEARCH || {};
+        if(typeof(autoSuggest)==="undefined"){
+            var e=document.createElement("script");
+            var _2=asseturi+"autocomplete.js";
+            e.src=_2;
+            e.type="text/javascript";
+            document.getElementsByTagName("head")[0].appendChild(e);
+            detachEvent(document.getElementById("csbquery1"), "focus", loadJSON);
+        }
+
+};
+
+function searchBoxGlow() {
+  var searchBoxForm = document.getElementById("CSBsearchForm1");
+  if (searchBoxForm) {
+    var className = searchBoxForm.className;
+    if (className.indexOf("sbglow") !== -1) {
+      className = className.replace("sbglow", "");
+    }
+    else {
+      className += " sbglow";
+    }
+    searchBoxForm.className = className;
+  }
+}
+
+function lLoad(){
+    if (document.getElementById("csbquery1")) {
+        csbfrm = document.getElementById("csbquery1");
+        attachEvt(csbfrm, "focus", loadJSON);
+        attachEvt(csbfrm, "focus", searchBoxGlow);
+        attachEvt(csbfrm, "blur", searchBoxGlow);
+    }
+};
+lLoad();
+
+function csbsubmit(f) {
+  document.getElementById(f).submit();
+}
+
+
+
+//preventing from safari cache on landing page
+window.onunload=function(){};
+
+function focuscsb(){
+  var q=document.getElementById("csbquery1");
+  if(q!=null){
+    q.focus();
+    q.value=q.value;
+    cursorAtEnd(q);
+  }
+}
+function cursorAtEnd(q) {
+    var length = q.value.length;
+    if (q.setSelectionRange) {
+        q.setSelectionRange(length, length);
+    }
+    else {
+        if (q.createTextRange) {
+            var range = q.createTextRange();
+            range.collapse(true);
+            range.moveEnd('character', length);
+            range.moveStart('character', length);
+            range.select();
+        }
+    }
+}
+function cursorAtBeginning(q){
+    if (q.setSelectionRange) {
+        q.setSelectionRange(0, 0);
+    }
+    else //IE
+        if (q.createTextRange) {
+            var range = q.createTextRange();
+            range.collapse(true);
+            range.moveEnd('character', 0);
+            range.moveStart('character', 0);
+            range.select();
+        }
+}
+addLoadEvent(function() {
+  focuscsb();
+});
+</script>
+</div> <!-- sbox -->
+</div><!--eCS--><!--sHLGH--><script type="text/javascript">sl.a(2,'ghHeaderLinksMain','feature.header.ptl','GHL','H5','-');</script><div class="HLGH">
+<script type="text/javascript">
+var attachEvt=attachEvt||function (el, m, f){
+if (el.addEventListener) {
+el.addEventListener(m, f, false);
+}
+else {
+if (el.attachEvent) {
+el.attachEvent("on" + m, f);
+}
+}
+}
+function togglett(){
+var el=(typeof event!="undefined"?event.srcElement.nextSibling:this.nextSibling);
+while (el.nodeType!=1) el=el.nextSibling;
+if (el.style.display !== "block") {el.style.display="block";}
+else {el.style.display="none";}
+}
+function registerEvt(el){
+attachEvt(document.getElementById(el),"mouseover",togglett);
+attachEvt(document.getElementById(el),"mouseout",togglett);
+}
+</script>
+<ul content="hat_links">
+<li>
+<a id="home" class="home" target='_blank' href="http://www.aol.co.uk/?icid=aol-uk-search-header-hp" title="" onclick="return sl.sl(null,null,null,this,2,1,'hlHome')"></a>
+<span class="tooltip tthome"><span class="arrow"></span><span class="tttitle">AOL UK</span></span>
+<script>registerEvt("home");</script>
+</li>
+<li>
+<a id="mail" class="mail" target='_blank' href="http://my.screenname.aol.com/_cqr/login/login.psp?mcState=initialized&seamless=novl&sitedomain=sns.webmail.aol.com&lang=en&locale=gb&authLev=2&siteState=ver%3a2%7cac%3aWS%7cat%3aSNS%7cld%3awebmail.aol.co.uk%7cuv%3aAOL%7clc%3aen-gb" title="" onclick="return sl.sl(null,null,null,this,2,2,'hlMail')"></a>
+<span class="tooltip ttmail"><span class="arrow"></span><span class="tttitle">Mail</span></span>
+<script>registerEvt("mail");</script>
+</li>
+<li><a id="favs" class="favs" target='_blank' href="http://www.aol.co.uk/favourites/?icid=aol-uk-search-header-fv" title="" onclick="return sl.sl(null,null,null,this,2,3,'hlFavs')"></a>
+<span class="tooltip ttfavs"><span class="arrow"></span><span class="tttitle">Favourites</span></span>
+<script>registerEvt("favs");</script>
+</li>
+<li>
+<a id="signlnk" class="signlnk sin" href="http://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=eusearch-c.search.aol.com&amp;authLev=1&amp;seamless=y&amp;lang=en&amp;locale=gb&amp;loginId=&amp;siteState=OrigUrl%3Dhttp%253A%252F%252Fsearch.aol.co.uk%252Faol%252Fwebhome" title="">
+Sign In</a>
+<span class="tooltip ttsignlnk"><span class="arrow"></span><span class="tttitle">Sign In&nbsp;</span></span>
+<script>registerEvt("signlnk");</script>
+</li>
+</ul>
+</div><!--eHLGH--><!--s--></div></div>
+<!--e--></div><div id="nav"><!--s--><div id="nav_cont"><div class="search_tabs"><!--e--><!--sSAFESEARCH_MINI--><script type="text/javascript">sl.a(6,'safesearchPreferenceMiniDisplay','PTL','null','N2','-');</script><div class="LHRSAFE">
+  <div class="tab">
+    <a href="javascript:void(0)" onclick="toggleMD('sspmd_dialog',event)">SafeSearch<span class="darrsafe"></span></a>
+  </div>
+  <div id="sspmd_dialog" class="dn">
+      <a class="sspmd_padding_left" href="javascript:void(0);" onclick="setSSPMD(5,'webhome?s_cs=-7834627908880686513&v_t=na&oreq=97c3b1071db8458cb3bf22c62cbe41eb');sl.sl(null,null,null,this,6,-1,'sspmd_on')">SafeSearch on</a>
+        <p class="sspmd_padding_left sspmd_selected">
+          <span></span>SafeSearch off</p>
+      <div class="sspmd_more sspmd_padding_left">
+      <a class="sspmd_ext_links" href="settings?v_t=na#safesearch" onclick="sl.sl(null,null,null,this,6,-1,'sspmd_all')">More about SafeSearch</a>
+     </div>
+  </div>
+</div>
+<!--eSAFESEARCH_MINI--><!--s--></div></div><!--e--></div><div id="f"><!--s--><div class="cntr"><div class="cntr-rw">
+<!--e--><!--sflogo--><script type="text/javascript">sl.a(20,'footlogo','feature.footer.ptl','null','F2','-');</script><div class="flogo">
+<a class="sprite" onclick="sl.sl(null,null,null,this,20,1,'home')" href="webhome">Aol Search.</a>
+</div><!--eflogo--><!--s--></div></div>
+<!--e--><!--sflinks--><script type="text/javascript">sl.a(22,'footlinks','feature.footer.ptl','null','F4','-');</script><div class="flinks">
+<ul  content="flinks"><a 
+        href="about?v_t=na#webhome"
+        onclick="return sl.sl(null,null,null,this,22,1,'flAbout')">About AOL Search</a>
+|&nbsp;<a 
+        href="http://help.aol.co.uk/help_uk/product/aol_search/"
+        onclick="return sl.sl(null,null,null,this,22,2,'flHelp')">Help</a>
+|&nbsp;<a 
+        href="http://feedback.aol.com/rs/rs.php?sid=uk_aolsearch"
+        onmouseover="lcljs('http://o.aolcdn.com/os/feedback/feedback-packed.js');this.onmouseover=null;"
+        onfocus="lcljs('http://o.aolcdn.com/os/feedback/feedback-packed.js');this.onfocus=null;"
+        onclick="sl.sl(null,null,null,this,22,3,'flFeedback');fBo3(this.href);return false;">Give Feedback</a>
+|&nbsp;<a 
+        href="http://help.aol.co.uk/help_uk/microsites/microsite.do?cmd=displayKC&docType=kc&externalId=26303"
+        onclick="return sl.sl(null,null,null,this,22,4,'flPrivacy')">AOL UK Privacy Policy</a>
+|&nbsp;<a 
+        href="http://help.aol.co.uk/help_uk/microsites/microsite.do?cmd=displayKC&docType=kc&externalId=26301"
+        onclick="return sl.sl(null,null,null,this,22,5,'flTerms')">AOL UK Terms of Use</a>
+|&nbsp;<a 
+        href="http://corp.aol.co.uk/"
+        onclick="return sl.sl(null,null,null,this,22,6,'flAbout')">About AOL</a>
+|&nbsp;<a 
+        href="http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=26238"
+        onclick="return sl.sl(null,null,null,this,22,7,'flContact')">Contact</a>
+|&nbsp;<a 
+        href="http://advertising.aol.co.uk/"
+        onclick="return sl.sl(null,null,null,this,22,8,'flAdvertisingContact')">Advertising Contact</a>
+|&nbsp;<a 
+        href="http://www.aol.co.uk/sitemap"
+        onclick="return sl.sl(null,null,null,this,22,9,'flSitemap')">Sitemap</a>
+|&nbsp;<a 
+        href="http://www.aolbroadband.co.uk/"
+        onclick="return sl.sl(null,null,null,this,22,10,'flJoinAolBroadband')">Join AOL Broadband</a>
+|&nbsp;<a 
+        href="http://toolbar.aol.com/uk/index-portal.adp"
+        onclick="return sl.sl(null,null,null,this,22,11,'flToolbar')">Get AOL Toolbar</a>
+</ul><div class="copy">&copy; AOL (UK) Limited its affiliates and licensors.</div><br />
+</div><!--eflinks--><!--sOMNI--><script type="text/javascript"><!--
+
+var s_account="aolukjunglobal"
+
+function downloadOmni() {
+var fileref=document.createElement('script')
+fileref.setAttribute("type","text/javascript")
+fileref.setAttribute("src", "http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture-intl.min.js")
+if (typeof fileref!="undefined") {
+document.getElementsByTagName("head")[0].appendChild(fileref)
+}
+}
+
+function onLoadOmniTrack() {
+downloadOmni();
+if( onLoadOmniTracker ) {
+onLoadOmniTracker();
+}
+}
+
+var onLoadOmniTracker = window.onload;
+window.onload=onLoadOmniTrack;
+
+
+//adding beacon information
+bN_cfg = { 
+upgradeIE:false,h:"[search.aol.co.uk]",
+"x":"1",
+b:"b.search.aol.co.uk",
+p:{"dL_ch":"eu.searchuk",
+"dL_dpt":"eu.searchuk : portal",
+"dL_sDpt":"eu.searchuk : webhome"}
+};
+function runOmni() {
+
+s_265.trackExternalLinks=false
+s_265.trackDownloadLinks=false
+s_265.pageName="eu.searchuk-aol-eu.searchuk : portal-eu.searchuk : webhome-worldweb-0"
+s_265.channel="eu.searchuk"
+s_265.prop1="eu.searchuk : portal"
+s_265.prop2="eu.searchuk : webhome"
+s_265.prop9="unavailable + eu.searchuk : webhome"
+
+s_265.prop12="http://search.aol.co.uk/aol/webhome"
+s_265.prop17="aoluk"
+s_265.prop20="iv_null"
+s_265.prop21="portal"
+s_265.disablepfxID=true
+s_265.mmxgo=true
+s_265.prop54="no_cms"
+s_265.mmxtitle="AOL Search"
+s_265.eVar14="sea:webhome:test:FF_roll,sport_off,CNTL_ClarRayAA2apr:t_CNTL_UK_16"
+
+s_265.pageURL="http://search.aol.co.uk/aol/webhome?"
+
+var df=document.referrer;if(df){var rfh = df.split("http://")[1].split("/")[0];if(rfh.indexOf(window.location.hostname) >= 0 || rfh.indexOf("search.aol.com") >= 0 || rfh.indexOf("local.aol.com") >= 0 || rfh.indexOf("plus.aol.com") >= 0){s_265.referrer=df.split("?")[0];}}
+var s_code=s_265.t();
+if(s_code)document.write(s_code);
+}
+
+
+//--></script>
+<!--eOMNI--><!--sCOO--><script type="text/javascript"><!--
+function initializeCookieManager() {
+var cookiemanager = AOLSEARCH.cookiemanager;
+cookiemanager.setProp('host', 'rs.aol.co.uk');
+cookiemanager.setProp('version', '1.0');
+cookiemanager.setProp('section_key', 'search');
+cookiemanager.setProp('jsFile', 'cobrand.js');
+cookiemanager.setProp('queryString', '');
+cookiemanager.setWLst('sinvtype,oo_seen,oo_global,oo_seen_l,oo_global_l');
+cookiemanager.setMldomains('aol.co.uk,search.aol.co.uk');
+
+addLoadEvent(function() {
+AOLSEARCH.cookiemanager.logging("initializeCookieManager - addLoadEvent");
+AOLSEARCH.cookiemanager.loadBanner();
+}
+);
+}
+//--></script>
+<!--eCOO--></div><!-- recipe:webhome,FA:noClassification.No task defined,Ad Block: false,Ad Recipe: none,Split: ?,MinExtraBottom: ?-->
+<!-- nores: [promotion:1, HISTORY_MINI:1] -->
+</div>
+
+<!--[if lt IE 8]></div><![endif]-->
+<!--[if IE 9]></div><![endif]-->
+<!--[if IE 8]></div><![endif]-->
+<!--[if IE 7]></div><![endif]-->
+<!--[if IE 6]></div><![endif]-->
+<script type="text/javascript">
+
+function setSSPMD(_1,_2){var _3="setprefs";_3+="?safesearch="+_1;var _4;try{_4=new XMLHttpRequest();}
+catch(e){try{_4=new ActiveXObject("Msxml2.XMLHTTP");}
+catch(e){try{_4=new ActiveXObject("Microsoft.XMLHTTP");}
+catch(e){alert("Your browser does not support AJAX!");return false;}}}
+_4.onreadystatechange=function(){if(_4.readyState==4){document.location.href=_2;}};_4.open("POST",_3,true);_4.setRequestHeader("Content-Type","application/x-www-form-urlencoded");_4.send(null);};
+function lcljs(_1){var e=document.createElement("script");e.src=_1;e.type="text/javascript";document.getElementsByTagName("head")[0].appendChild(e);};function setHome(u,o){if(!u){u="http://www.aol.com/";}
+if(!o){o=document.getElementById("mkh");}
+if(o.addBehavior){o.style.behavior="url(#default#homepage)";o.setHomePage(u);return false;}
+return true;};
+var AOLSEARCH=AOLSEARCH||{};AOLSEARCH.cookiemanager={values:[],whitelst:[],optout:false,mldomains:[],setProp:function(k,v){this.values[k]=v;},setWLst:function(_3){if(typeof _3!=="undefined"){this.whitelst=_3.split(",");}},setMldomains:function(x){if(typeof x!=="undefined"){this.mldomains=x.split(",");}},loadBanner:function(){if(this.values.host!=""&&this.values.version!=""&&this.values.section_key!=""&&this.values.jsFile!=""){var _5=("https:"===document.location.protocol?"https://":"http://")+this.values.host+"/"+this.values.version+"/"+this.values.section_key+"/"+this.values.jsFile+this.values.queryString,_6=document.createElement("script"),_7=document.getElementsByTagName("head")[0];_6.src=_5;_6.onload=_6.onreadystatechange=function(){setTimeout("AOLSEARCH.cookiemanager.checkCookies()",500);};_7.appendChild(_6);this.logging("loadBanner");}},isInWList:function(_8){var _9=false,_a=(typeof this.whitelst!=="undefined"?this.whitelst.length:0);if(typeof _8!=="undefined"&&_a>0){while(!_9&&_a--){if(_8===this.whitelst[_a]){_9=true;}}}
+this.logging("isInWList-str: "+_8+" : "+_9);return _9;},eraseCookie:function(_b){var _c=new Date();_c.setTime(_c.getTime()+(-1*24*60*60*1000));document.cookie=_b+"=; expires="+_c.toGMTString();this.logging("eraseCookie: "+_b+"=; expires="+_c.toGMTString());size=(typeof this.mldomains!=="undefined"?this.mldomains.length:0);if(size>0){while(size--){document.cookie=_b+"=; domain="+this.mldomains[size]+"; expires="+_c.toGMTString()+"; path=/";this.logging("eraseCookie: "+_b+"=; domain="+this.mldomains[size]+"; expires="+_c.toGMTString()+"; path=/");}}},createCookie:function(_d,_e,_f){if(_f<=-1||_f=="undefined"){this.eraseCookie(_d);}else{if(!this.optout){var _10="",_11;if(_f){_11=new Date();_11.setTime(_11.getTime()+(_f*24*60*60*1000));_10="; expires="+_11.toGMTString();}
+this.logging("createCookie-full value: "+_d+"="+_e+_10);document.cookie=_d+"="+_e+_10;}else{this.logging("createCookie-NOTCREATING COOKIE: "+_d);}}},readCookie:function(_12){var _13=_12+"=";var ca=document.cookie.split(";");var _15=null,i=ca.length;while(i--&&_15===null){var c=ca[i];while(c.charAt(0)==" "){c=c.substring(1,c.length);}
+if(c.indexOf(_13)==0){_15=c.substring(_13.length,c.length);}}
+this.logging("readCookie-Value of "+_12+" = "+_15);return _15;},logging:function(str){return;},checkCookies:function(){var _19=false,io=window.io_c3s;if(typeof io_c3sd!=="undefined"&&typeof io_c3sd.oo_global!=="undefined"&&io_c3sd.oo_global===true){var str,_1c,lst=document.cookie.split(";");this.logging("checkCookies-cookies.length: "+lst.length);for(var i=lst.length;i--;){str=lst[i];if(str.indexOf("=")>=0){_1c=str.split("=")[0];while(_1c.charAt(0)===" "&&_1c.length>=1){_1c=_1c.substring(1,_1c.length);}
+if(!this.isInWList(_1c)){this.eraseCookie(_1c);}}}
+_19=io_c3sd.oo_global;}
+this.logging("checkCookies-setOptOut: "+_19);this.optout=_19;if(!this.optout){this.createCookie("oo_seen","1","10");}}};var addLoadEvent=addLoadEvent||function(_1f){var _20=window.onload;if(typeof window.onload!="function"){window.onload=_1f;}else{window.onload=function(){_20();_1f();};}};if(typeof initializeCookieManager==="function"){initializeCookieManager();}
+function setTZCkie(nm,_2){var _3=new Date();var _4=_3.getTimezoneOffset()*60000*-1;if(nm&&_4){try{AOLSEARCH.cookiemanager.createCookie(nm,_4,365);}
+catch(e){document.cookie=nm+"="+_4+"; path=/";}}};setTZCkie("rs_timezone",null);
+function addDocClickEvent(_1){var _2=document.onclick;if(typeof document.onclick!="function"){document.onclick=_1;}else{document.onclick=function(){if(_2){_2();}
+_1();};}};function getElementsByClassNameScoped(_3,_4,_5){var _6=(_4=="*"&&_3.all)?_3.all:_3.getElementsByTagName(_4);var _7=new Array();_5=_5.replace(/\-/g,"\\-");var _8=new RegExp("(^|\\s)"+_5+"(\\s|$)");var _9;for(var i=0;i<_6.length;i++){_9=_6[i];if(_8.test(_9.className)){_7.push(_9);}}
+return(_7);};function popupsClose(){var _b=getElementsByClassNameScoped(document,"div","filis");var _c=document.getElementById("stbhid");var _d=document.getElementById("shmd_dialog");var _e=document.getElementById("shmd_clear_box");var _f=document.getElementById("shmd_suspend_box");var _10=document.getElementById("sspmd_dialog");if(_c&&_b){_b.push(_c);}
+if(_d&&_b){_b.push(_d);}
+if(_e&&_b){_b.push(_e);}
+if(_f&&_b){_b.push(_f);}
+if(_10&&_b){_b.push(_10);}
+if(_b){for(i=0;i<_b.length;++i){var _11=_b[i];var _12=_11.className;if(_12.indexOf("dn")===-1){_12+=" dn";}
+_11.className=_12;}}
+if(typeof(AOLSEARCH)!="undefined"&&AOLSEARCH.autoSuggest){var acc=document.getElementById("ACC");acc.style.display="none";acc.innerHTML="";}};function stopEventProp(e){if(!e){var e=window.event;}
+if(e){e.cancelBubble=true;if(e.stopPropagation){e.stopPropagation();}}};function toggleMD(x,_16){stopEventProp(_16);if(AOLSEARCH&&AOLSEARCH.edutips){AOLSEARCH.edutips.unSetTips();}
+var y=document.getElementById(x);if(y){var _18=y.className;if(_18.indexOf("dn")!==-1){popupsClose();_18=_18.replace("dn","");}else{_18+=" dn";}
+y.className=_18;}};addDocClickEvent(popupsClose);</script>
+</body>
+</html>
+
