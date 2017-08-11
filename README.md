@@ -1,4 +1,4 @@
-# Implementations and Performance Comparison of Search(String-Matching) Algorithms
+# Implementation and Performance Comparison of Search Algorithms
 Pattern searching(string-matching) is an important problem in computer science. When we do search for a string in notepad/word file or browser or database, pattern searching algorithms are used to show the search results. 
 
 This repository includes *implementations of Boyer Moore, Horspool and Brute Force algorithms* in **c programming language**. Moreover, *the execution times* are calculated in these c programs so *performance of Boyer Moore, Horspool and Brute Force algorithms can be examined* on different test cases.
