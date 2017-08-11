@@ -60,7 +60,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "String Matching",
         year   = "2017",
-        url    = "https://github.com/ahmetozlu/string_matching"
+        url    = "https://github.com/ahmetozlu/pattern_matching"
     }
 
 ## Author
