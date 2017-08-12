@@ -38,7 +38,7 @@ void search( char *txt,  char *pat,char temp3[MAX],int k) {
     int n = strlen(txt);
     char src[MAX],p[MAX],temp[MAX],temp2[MAX],tempP[MAX],out[MAX];
     int badchar[NO_OF_CHARS],i,leng,l,count;
-	char v;
+    char v;
     
     /* Fill the bad character array by calling the preprocessing function badCharHeuristic() for given pattern */
     badCharHeuristic(pat, m, badchar);
