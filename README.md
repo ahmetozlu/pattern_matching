@@ -58,7 +58,7 @@ If you use this code for your publications, please cite it as:
 
     @ONLINE{vdtc,
         author = "Ahmet Özlü",
-        title  = "String Matching",
+        title  = "Pattern Matching",
         year   = "2017",
         url    = "https://github.com/ahmetozlu/pattern_matching"
     }
